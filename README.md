@@ -21,8 +21,6 @@ https://jsonplaceholder.typicode.com/users
 - VS Code
 - Chrome Browser
 
-## Screenshot:
-(Add a screenshot of your output webpage if you have one)
 
 ## How to Run:
 1. Open the `index.html` file in any browser.
